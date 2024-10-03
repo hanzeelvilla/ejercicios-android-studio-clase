@@ -1,0 +1,31 @@
+# Gradle files
+.gradle/
+build/
+
+# Android Studio files
+.idea/
+local.properties
+*.iml
+
+# Log files
+*.log
+
+# Android build
+app/build/
+
+# Cache
+*.apk
+*.ap_
+*.dex
+*.class
+*.war
+*.ear
+
+# Keystore files
+*.jks
+
+# Proguard
+proguard/
+
+# Other files
+.DS_Store
