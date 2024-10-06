@@ -15,7 +15,6 @@ Crea la base de datos si no la tienes creada en MySQL
 ```
 CREATE DATABASE pmoviles;
 ```
-
 Ejecuta la api
 ```
 node app.js
@@ -24,3 +23,8 @@ node app.js
 ## Probar la API localmente
 
 Puedes probar la api localmente con el archivo **test_endpoints.rest** si tienes instalada la extensión **Rest Client**
+
+## Port Forwarding
+
+Sigue el siguiente tutorial para hacer pública la API
+[Local Port Forwarding](https://code.visualstudio.com/docs/editor/port-forwarding)
