@@ -1,0 +1,17 @@
+# Devolver todos los usuarios
+http://localhost:3000/users?action=read
+
+###
+
+# Crear usuarios
+http://localhost:3000/users?action=create&nombre=Hanzeel&usuario=Walle&contrasena=hanzeelGuapo
+
+###
+
+# Actualizar un usuario
+http://localhost:3000/users?action=update&id=1&nombre=Abraham
+
+###
+
+# Eliminar un usuario
+http://localhost:3000/users?action=delete&id=1
