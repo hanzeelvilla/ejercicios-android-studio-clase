@@ -1,0 +1,20 @@
+# RECUERDA CAMBIAR EL ENDPOINT CON TU LINK
+# SI NO FUNCIONA (PROBABLEMENTE POR CORS) COPIA LOS ENDPOINTS EN EL NAVEGADOR
+
+# Devolver todos los usuarios
+https://bq5h2642-3000.usw3.devtunnels.ms/users?action=read
+
+###
+
+# Crear usuarios
+https://bq5h2642-3000.usw3.devtunnels.ms/users?action=create&nombre=Hanzeel&usuario=Walle&contrasena=hanzeelGuapo
+
+###
+
+# Actualizar un usuario
+https://bq5h2642-3000.usw3.devtunnels.ms/users?action=update&id=1&nombre=Abraham
+
+###
+
+# Eliminar un usuario
+https://bq5h2642-3000.usw3.devtunnels.ms/users?action=delete&id=1
