@@ -36,7 +36,9 @@ Puedes probar la api localmente con el archivo **test_endpoints_local.rest** si 
 2. Da clic en Forward a Port
 3. El puerto de la API es 3000 **a menos que se defina otro en las variables de entorno**
 4. Aparecerá un link con la dirección de tu API, tienes que hacerla pública para que pueda Android Studio pueda usarla
-5. Da clic en el número del puerto, **port visibility** y selecciona **public** 
+5. Da clic en el número del puerto, **port visibility** y selecciona **public**
+
+![Demostración](App Usuarios/ejemplo.png)
 
 Documentación de como hacer port forwarding desde VS
 [Local Port Forwarding](https://code.visualstudio.com/docs/editor/port-forwarding)
